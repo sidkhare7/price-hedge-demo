@@ -4,6 +4,14 @@ Parametric insurance settles automatically when a measurable condition is met â€
 
 ---
 
+## Clone github repo
+
+Before beginning the repo you will have to clone this repo or download zip from github and manually open it on VS Code. 
+
+Commands: 
+git clone https://github.com/sidkhare7/price-hedge-demo.git //clone it
+cd price-hedge-demo //open folder
+
 ## Setup
 
 ```bash
